@@ -1,1 +1,1 @@
-#computed the largest of three-numbers
+#computes the largest of three-numbers
